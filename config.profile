@@ -1,7 +1,7 @@
 # NOTE: This file accepts bash syntax
 
 # Your Python executable
-PYTHON=python3
+PYTHON=python3.5
 
 # Path to your data dir
 # We expect the following directory structure:
@@ -19,4 +19,4 @@ PYTHON=python3
 #             ...
 #     pascal_context/
 #     ...
-DATA_ROOT=/home/ubuntu/meenakshir/semantic-segmentation/datasets/idd/
+DATA_ROOT=/home/ubuntu/meenakshir/semantic-segmentation/datasets/idd
